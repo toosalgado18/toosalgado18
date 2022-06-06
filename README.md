@@ -21,6 +21,6 @@ In the overview below you will find the featured posts I created for the [Knowle
 [![GitHub Miguel Salgado](https://img.shields.io/github/followers/toosalgado18?label=follow&style=social)](https://github.com/toosalgado18)
 [![Twitter: Miguel Salgado](https://img.shields.io/twitter/follow/toosalgado18?style=social)](https://twitter.com/toosalgado18)
 
-You can ask me anything. I am looking forward to absorb knowledge🧠, gain experience 🏭 and to collaborate🤝
+You can ask me anything. I am looking forward to absorb knowledge🧠, gain experience 🏭 and to collaborate.🤝
 
 If you have any feedback, or want to get in contact, please reach out to me at [contact@toosalgado.com](mailto:contact@toosalgado.com) 
