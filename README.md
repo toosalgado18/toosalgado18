@@ -23,4 +23,4 @@ In the overview below you will find the featured posts I created for the [Knowle
 
 You can ask me anything. I am looking forward to absorb knowledge🧠, gain experience 🏭 and to collaborate🤝
 
-If you have any feedback, please reach out to me at [contact@toosalgado.com](mailto:contact@toosalgado.com) 
+If you have any feedback, or want to get in contact, please reach out to me at [contact@toosalgado.com](mailto:contact@toosalgado.com) 
