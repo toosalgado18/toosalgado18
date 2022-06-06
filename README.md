@@ -1,7 +1,7 @@
 # Hello everyone! 👋
 ## 🚀 About Me
 - 🤝 My name is Miguel Salgado. I'm based in Mexico City 🇲🇽 
-- 🐧 I’m a Linux System Administrator working at [Rackspace Technology™](https://rackspace.com) with over 3 years of experience .
+- 🐧 I’m a Linux System Administrator working at [Rackspace Technology™](https://rackspace.com) with over 3 years of experience.
 - 💻 I have the [RHCSA](https://rhtapps.redhat.com/certifications/badge/verify/NORT24GFXKLDAFT7MOTYUA5ZYYAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=) and [Azure AZ-900](https://www.credly.com/badges/59f86187-0289-4e31-83f4-aab5ae1be418) Certifications.
 - 🌱 I've made several [contributions to open source](https://github.com/toosalgado18), to tools such as [Rackerlabs - How To](https://github.com/rackerlabs/support-how-to/pulls?q=author%3Atoosalgado18+).
 - 💬 You can get in touch with me by email at [contact@toosalgado.com](mailto:contact@toosalgado.com) 
