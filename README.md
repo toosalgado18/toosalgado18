@@ -10,10 +10,10 @@
 ## 📖 Blog Posts
 In the overview below you will find the featured posts I created for the Knowledge Base project at Rackspace™ as part of my projects. 
 <!-- BLOG_START -->
-- [MySQL Java Database connectivity communications exception](https://docs.rackspace.com/support/how-to/mysql-java-database-connectivity-communications-exception/) (2021-03-03)
-- [What are inodes in Linux?](https://docs.rackspace.com/support/how-to/what-are-inodes-in-linux//) (2021-03-19)
-- [How to enable SSL/TLS perfect forward secrecy in Apache or Nginx](https://docs.rackspace.com/support/how-to/how-to-enable-SSL-TLS-perfect-forward-secrecy/) (2021-04-24)
-- [Install WordPress on Linux with Apache](https://docs.rackspace.com/support/how-to/install-wordpress-on-linux-with-apache/) (2022-06-03)
+- [MySQL Java Database connectivity communications exception](https://docs.rackspace.com/support/how-to/mysql-java-database-connectivity-communications-exception/) - (2021-03-03)
+- [What are inodes in Linux?](https://docs.rackspace.com/support/how-to/what-are-inodes-in-linux//) - (2021-03-19)
+- [How to enable SSL/TLS perfect forward secrecy in Apache or Nginx](https://docs.rackspace.com/support/how-to/how-to-enable-SSL-TLS-perfect-forward-secrecy/) - (2021-04-24)
+- [Install WordPress on Linux with Apache](https://docs.rackspace.com/support/how-to/install-wordpress-on-linux-with-apache/) - (2022-06-03)
 <!-- BLOG_END -->
 
 ## 🔗 Links
